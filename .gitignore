@@ -1,0 +1,23 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+Build/
+Builds/
+
+# User-specific files
+.vscode/
+.idea/
+*.user
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# macOS file system files
+.DS_Store
+
+# Unity crash reports
+crash-reports/
+
